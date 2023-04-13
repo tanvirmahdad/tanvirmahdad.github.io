@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:mahdad@tamu.edu"
+      url: "mailto:mahdad@tamu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://tanvirmahdad.github.io"
