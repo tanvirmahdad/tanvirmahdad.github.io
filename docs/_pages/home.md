@@ -35,4 +35,6 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+Now this is the case here, the exact home page.
+
 {% include feature_row %}
