@@ -6,3 +6,9 @@ layout: archive
 {{ content }}
 
 <h2 class="archive__subtitle">Conference Papers</h2>
+
+<div class="conference-text" style="font-size: 16px;display: inline-block;
+  vertical-align: top; width: calc(100% - 0px);">
+		{% capture conference_text %}{% include conference-text.md %}{% endcapture %}
+		{{ conference_text | markdownify }}
+</div>
