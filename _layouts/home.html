@@ -6,7 +6,7 @@ layout: archive
 
 <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
-<div class="homepage-text">
+<div class="homepage-text" style="font-size: 12px;">
 {% capture homepage_text %}{% include homepage-text.md %}{% endcapture %}
 {{ homepage_text | markdownify }}
 </div>
