@@ -12,3 +12,11 @@ layout: archive
 		{% capture conference_text %}{% include conference-text.md %}{% endcapture %}
 		{{ conference_text | markdownify }}
 </div>
+
+<h2 class="archive__subtitle">Posters</h2>
+
+<div class="posters-text" style="font-size: 16px;display: inline-block;
+  vertical-align: top; width: calc(100% - 0px);">
+		{% capture posters_text %}{% include posters-text.md %}{% endcapture %}
+		{{ posters_text | markdownify }}
+</div>
