@@ -2,23 +2,19 @@
 layout: archive
 ---
 
-<div class="wrapper" style="display: flex;">
+<<div class="wrapper" style="display: flex;">
   <div class="main" style="flex: 1;">
+    {{ content }}
 
-		{{ content }}
+    <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
-		<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
+    <div class="homepage-text" style="font-size: 16px; display: inline-block; vertical-align: top; width: 100%;">
+      {% capture homepage_text %}{% include homepage-text.md %}{% endcapture %}
+      {{ homepage_text | markdownify }}
+    </div>
 
-		<div class="homepage-text" style="font-size: 16px;display: inline-block;
-  vertical-align: top; width: calc(100% - 100px);">
-		{% capture homepage_text %}{% include homepage-text.md %}{% endcapture %}
-		{{ homepage_text | markdownify }}
-		</div>
-
-		<div class="right-sidebar" style="display: inline-block;
-  vertical-align: top; width: 100px;
-  margin-left: 32px;">
-		      <p>This content will be aligned to the right of the homepage text.</p>
-		    </div>
-		</div>
-	</div>
+    <div class="right-sidebar" style="display: inline-block; vertical-align: top; width: 100px; margin-left: 32px;">
+      <p>This content will be aligned to the right of the homepage text.</p>
+    </div>
+  </div>
+</div>
