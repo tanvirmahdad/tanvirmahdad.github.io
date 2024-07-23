@@ -1,3 +1,9 @@
+[**<span style="color:blue">July 2024</span>**] Our paper " Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators" is accepted to **ACM CCS 2024**. It is our second paper to be appeared in CCS 2024.
+
+[**<span style="color:blue">July 2024</span>**] Our paper "Mobile Login Bridge: Subverting 2FA and Passwordless Authentication via Android Debug Bridge" is accepted to **PST 2024**
+
+[**<span style="color:blue">May 2024</span>**] Our paper "SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures" is accepted to **ACM CCS 2024**
+
 [**<span style="color:blue">November 2023</span>**] Our paper "Sound-based Two-factor Authentication: Vulnerabilities and Redesign" is accepted to **ACM Transactions on Privacy and Security**
 
 [**<span style="color:blue">September 2023</span>**] Our paper "FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors" is accepted to **ACM CCS 2023**
