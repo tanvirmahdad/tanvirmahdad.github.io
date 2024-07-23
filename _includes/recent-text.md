@@ -1,4 +1,4 @@
-[**April 2023**] Our paper "EmoLeak: Smartphone Motions Reveals Emotions" is accepted to **ICDCS 2023**.
+[**<span style="color:blue">some *blue* text</span>**] Our paper "EmoLeak: Smartphone Motions Reveals Emotions" is accepted to **ICDCS 2023**.
 
 [**March 2023**] Our paper "SoK: A Comprehensive Evaluation of 2FA-based Schemes in the Face of Active Concurrent Attacks from User Terminals" is accepted to **Wisec 2023**
 
