@@ -29,7 +29,11 @@ layout: archive
 	<!-- Sidebar section -->
 	<div class="sidebar" style="flex: 1; width: 25%; padding-left: 50px;"> <!-- Adjusted flex value and width -->
 		<h2 class="archive__subtitle">Recent News</h2>
-		<p>Here you can add your sidebar content.</p>
+		<div class="recent-text" style="font-size: 14px; width: calc(100%);">
+			
+			{% capture recent_text %}{% include recent-text.md %}{% endcapture %}
+			{{ recent_text | markdownify }}
+		</div>
 		<!-- Add more sidebar content as needed -->
 	  </div>
 </div>
