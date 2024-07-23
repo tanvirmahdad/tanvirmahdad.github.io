@@ -1,4 +1,4 @@
-[**<span style="color:blue">November 2023</span>**] Our paper "Sound-based Two-factor Authentication: Vulnerabilities and Redesign" is accepted to **ACM Transaction of Privacy and Security**
+[**<span style="color:blue">November 2023</span>**] Our paper "Sound-based Two-factor Authentication: Vulnerabilities and Redesign" is accepted to **ACM Transactions on Privacy and Security**
 
 [**<span style="color:blue">September 2023</span>**] Our paper "FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors" is accepted to **ACM CCS 2023**
 
