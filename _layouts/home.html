@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-<div class="wrapper" style="display: flex; width: 100%;"> <!-- Ensure wrapper spans full width -->
+<div class="wrapper" style="display: flex; width: calc(100% + 300px);;"> <!-- Ensure wrapper spans full width -->
 	<div class="main" style="flex: 9; width: 75%;"> <!-- Adjusted flex value and width -->
 	  
 
@@ -17,7 +17,7 @@ layout: archive
 
 		<h2 class="archive__subtitle">Recent News</h2>
 
-		<div class="recent-text" style="font-size: 14px; width: calc(100% + 300px);">
+		<div class="recent-text" style="font-size: 14px; width: calc(100%);">
 			
 		{% capture recent_text %}{% include recent-text.md %}{% endcapture %}
 		{{ recent_text | markdownify }}
