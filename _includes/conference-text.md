@@ -1,5 +1,13 @@
+[**<span style="color:blue">C9</span>**]- **[Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators](https://www.sigsac.org/ccs/CCS2024)**  
+   [**Ahmed Tanvir Mahdad**, Mohammed Jubur and Nitesh Saxena]   
+   2024 ACM SIGSAC Conference on Computer and Communications Security (**CCS 2024**)
+
+[**<span style="color:blue">C8</span>**]- **[Mobile Login Bridge: Subverting 2FA and Passwordless Authentication via Android Debug Bridge](https://pstnet.ca/pst2024/index.html)**  
+   [**Ahmed Tanvir Mahdad** and Nitesh Saxena]   
+   21st Annual International Conference on Privacy, Security, and Trust (**PST 2024**)
+
 [**<span style="color:blue">C7</span>**]- **[SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures](https://www.sigsac.org/ccs/CCS2024/)**  
-   [Tianfang Zhang, QUifan Ji, Zhengkun Ye, Md Mojibur Rahman Redoy Akanda **Ahmed Tanvir Mahdad**, Cong Shi, Yan Wang, Nitesh Saxena, Yingying Chen]   
+   [Tianfang Zhang, Quifan Ji, Zhengkun Ye, Md Mojibur Rahman Redoy Akanda, **Ahmed Tanvir Mahdad**, Cong Shi, Yan Wang, Nitesh Saxena, Yingying Chen]   
    2024 ACM SIGSAC Conference on Computer and Communications Security (**CCS 2024**)
 
 [**<span style="color:blue">C6</span>**]- **[FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors](https://dl.acm.org/doi/abs/10.1145/3576915.3623102)**  
