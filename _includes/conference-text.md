@@ -1,3 +1,15 @@
+[**<span style="color:blue">C7</span>**]- **[SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures](https://www.sigsac.org/ccs/CCS2024/)**  
+   [Tianfang Zhang, QUifan Ji, Zhengkun Ye, Md Mojibur Rahman Redoy Akanda **Ahmed Tanvir Mahdad**, Cong Shi, Yan Wang, Nitesh Saxena, Yingying Chen]   
+   2024 ACM SIGSAC Conference on Computer and Communications Security (**CCS 2024**)
+
+[**<span style="color:blue">C6</span>**]- **[FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors](https://dl.acm.org/doi/abs/10.1145/3576915.3623102)**  
+   [Tianfang Zhang, Zhengkun Ye, **Ahmed Tanvir Mahdad**, Md Mojibur Rahman Redoy Akanda, Cong Shi, Yan Wang, Nitesh Saxena, Yingying Chen]   
+   2023 ACM SIGSAC Conference on Computer and Communications Security (**CCS 2023**) [Acceptance Rate: **19.87%**]
+
+[**<span style="color:blue">C5</span>**]- **[Breaking Mobile Notification-based Authentication with Concurrent Attacks Outside of Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3570361.3613273)**  
+   [**Ahmed Tanvir Mahdad**, Mohammed Jubur and Nitesh Saxena]   
+   29th ​Annual International Conference on Mobile Computing and Networking (**Mobicom 2023**) [Acceptance Rate: **24.4%**]
+
 [**<span style="color:blue">C4</span>**]- **[EmoLeak: Smartphone Motions Reveals Emotions](https://ieeexplore.ieee.org/abstract/document/10272395)**  
    [**Ahmed Tanvir Mahdad**, Cong Shi, Zhengkun Ye, Tianming Zhao, Yan Wang, Yingying Chen and Nitesh Saxena]   
    43rd IEEE International Conference on Distributed Computing Systems (**ICDCS 2023**) [Acceptance Rate: **18.9%**]
