@@ -1,4 +1,4 @@
-[**<span style="color:blue">C4</span>**]- **EmoLeak: Smartphone Motions Reveals Emotions**  
+[**<span style="color:blue">C4</span>**]- **[EmoLeak: Smartphone Motions Reveals Emotions](https://ieeexplore.ieee.org/abstract/document/10272395)**  
    [**Ahmed Tanvir Mahdad**, Cong Shi, Zhengkun Ye, Tianming Zhao, Yan Wang, Yingying Chen and Nitesh Saxena]   
    43rd IEEE International Conference on Distributed Computing Systems (**ICDCS 2023**) [Acceptance Rate: **18.9%**]
 
@@ -10,6 +10,6 @@
    [Cong Shi, Tianming Zhao, Wenjin Zhang, **Ahmed Tanvir Mahdad** , Zhengkun Ye, Yan Wang, Nitesh Saxena and Yingying Chen]  
    42nd IEEE International Conference on Distributed Computing Systems (**ICDCS 2022**) [Acceptance Rate: **19.9%**]
 
-[**<span style="color:blue">C1</span>**] **Analyzing the Security of OTP 2FA in the Face of Malicious Terminals**  
+[**<span style="color:blue">C1</span>**]- **Analyzing the Security of OTP 2FA in the Face of Malicious Terminals**  
    [**Ahmed Tanvir Mahdad** , Mohammed Jubur, Nitesh Saxena]  
    23rd International Conference on Information and Communication Security (**ICICS 2021**). [Acceptance Rate: **23.44%**]
