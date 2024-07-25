@@ -26,3 +26,7 @@
 
 [**<span style="color:blue">MobileMania Czech Republic</span>**]- **[EarSpy research has proven that Androids can be intercepted thanks to vibrations picked up by the accelerometer](https://mobilmania.zive.cz/clanky/vyzkum-earspy-dokazal-ze-androidy-lze-odposlechnout-diky-vibracim-ktere-zachyti-akcelerometr/sc-3-a-1356804/default.aspx)** (December 29, 2022)
 
+**<span style="color:blue">GBHacakers on Security</span>**]- **[EarSpy – A New Attack on Android Devices Use Motion Sensors to Steal Sensitive Data](https://gbhackers.com/earspy-android/))** (December 30, 2022)
+
+**<span style="color:blue">Frandroid</span>**]- **[Sécurité : comment le haut-parleur d’appel de votre smartphone peut être utilisé à votre insu](https://www.frandroid.com/produits-android/smartphone/1576058_securite-comment-le-haut-parleur-dappel-de-votre-smartphone-peut-etre-utilise-a-votre-insu))** (January 02, 2023)
+
