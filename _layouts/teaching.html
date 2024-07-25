@@ -1,0 +1,14 @@
+---
+layout: archive
+---
+
+
+{{ content }}
+
+<h2 class="archive__subtitle">Teaching Experience</h2>
+
+<div class="interest-text" style="font-size: 16px;display: inline-block;
+  vertical-align: top; width: calc(100% + 300px);">
+		{% capture teaching-text %}{% include teaching-text.md %}{% endcapture %}
+		{{ teaching-text | markdownify }}
+</div>
