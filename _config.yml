@@ -15,9 +15,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmed Tanvir Mahdad - Academic Homepage"
+title                    : "Ahmed Tanvir Mahdad"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Academic Homepage"
 name                     : "Ahmed Tanvir Mahdad"
 description              : "Academic Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
