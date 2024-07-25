@@ -1,3 +1,3 @@
-[**<span style="color:blue">Texas A&M Today</span>**]- **[Researchers Hack Android Smartphones, Find A Security Risk](https://today.tamu.edu/2023/08/28/researchers-hack-android-smartphones-find-a-security-risk/{:target="_blank"}**  (August 28, 2023)
+[**<span style="color:blue">Texas A&M Today</span>**]- **[Researchers Hack Android Smartphones, Find A Security Risk](https://today.tamu.edu/2023/08/28/researchers-hack-android-smartphones-find-a-security-risk/){:target="_blank"}**  (August 28, 2023)
 
 [**<span style="color:blue">Texas A&M Today</span>**]- **[Researchers Hack Android Smartphones, Find A Security Risk](https://today.tamu.edu/2023/08/28/researchers-hack-android-smartphones-find-a-security-risk/)**  (August 28, 2023)
