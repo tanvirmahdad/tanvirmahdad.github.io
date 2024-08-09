@@ -18,7 +18,7 @@
 
 ### Student Mentoring:
 
-1. **Brandon Shim** [Undergraduate student, Texas A&M University](Summer 2024)
+1. **Brandon Shim** [Master’s Student, Texas A&M University] (Fall 2023)
 2. **Rituparna Mandal** [Master’s Student, Texas A&M University] (Fall 2023)
 3. **Krishna Kushal** [Master’s Student, Texas A&M University] (Spring 2023)
 4. **Sidharth Anil** [Master’s Student, Texas A&M University] (Spring 2023)
