@@ -14,3 +14,13 @@
 5. **ACM The Web Conference (WebConf)** (2020, 2021)
 6. **Annual Computer Security Applications Conference (ACSAC)** (2023)
 7. **30th ACM Conference on Computer and Communications Security (CCS)** (2023)
+
+
+### Student Mentoring:
+
+1. **Brandon Shim** [Undergraduate student, Texas A&M University](Summer 2024)
+2. **Rituparna Mandal** [Master’s Student, Texas A&M University] (Fall 2023)
+3. **Krishna Kushal** [Master’s Student, Texas A&M University] (Spring 2023)
+4. **Sidharth Anil** [Master’s Student, Texas A&M University] (Spring 2023)
+5. **Samuel Shteyman** [Undergraduate Student, Texas A&M University] (Spring 2022)
+
