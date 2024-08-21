@@ -1,3 +1,3 @@
-[**<span style="color:blue">J1</span>**]-  [**Sound-based Two-factor Authentication: Vulnerabilities and Redesign**](https://dl.acm.org/doi/abs/10.1145/3632175)  
-	[Prakash Shrestha, **Ahmed Tanvir Mahdad**, and Nitesh Saxena]   
-	ACM Transactions on Privacy and Security, Volume 27, Issue 1 
+[**<span style="color:blue">Arxiv1</span>**]-  [**Earspy: Spying caller speech and identity through tiny vibrations of smartphone ear speakers**](https://arxiv.org/abs/2212.12151)  
+	[**Ahmed Tanvir Mahdad**, Cong Shi, Zhengkun Ye, Tianming Zhao, Yan Wang, Yingying Chen and Nitesh Saxena]   
+	arXiv preprint arXiv:2212.12151
