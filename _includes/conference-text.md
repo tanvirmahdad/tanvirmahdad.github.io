@@ -11,7 +11,7 @@
    [Tianfang Zhang, Quifan Ji, Zhengkun Ye, Md Mojibur Rahman Redoy Akanda, **Ahmed Tanvir Mahdad**, Cong Shi, Yan Wang, Nitesh Saxena, Yingying Chen]   
    2024 ACM SIGSAC Conference on Computer and Communications Security (**[CCS 2024](https://www.sigsac.org/ccs/CCS2024)**)
 
-[**<span style="color:blue">C7</span>**]- **[Mobile Login Bridge: Subverting 2FA and Passwordless Authentication via Android Debug Bridge](https://pstnet.ca/pst2024/index.html)**  
+[**<span style="color:blue">C7</span>**]- **[Mobile Login Bridge: Subverting 2FA and Passwordless Authentication via Android Debug Bridge](https://tanvirmahdad.github.io/assets/files/PST_camera_ready.pdf)**  
    [**Ahmed Tanvir Mahdad** and Nitesh Saxena]   
    21st Annual International Conference on Privacy, Security, and Trust (**[PST 2024](https://pstnet.ca/pst2024/index.html)**)
 
