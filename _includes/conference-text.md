@@ -1,4 +1,3 @@
-### 2024
 
 [**<span style="color:blue">C9</span>**]- **[Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators](https://www.sigsac.org/ccs/CCS2024)**  
    [**Ahmed Tanvir Mahdad**, Mohammed Jubur and Nitesh Saxena]   
@@ -12,8 +11,6 @@
 [**<span style="color:blue">C7</span>**]- **[Mobile Login Bridge: Subverting 2FA and Passwordless Authentication via Android Debug Bridge](https://pstnet.ca/pst2024/index.html)**  
    [**Ahmed Tanvir Mahdad** and Nitesh Saxena]   
    21st Annual International Conference on Privacy, Security, and Trust (**[PST 2024](https://pstnet.ca/pst2024/index.html)**)
-
-### 2023
 
 [**<span style="color:blue">C6</span>**]- **[Breaking Mobile Notification-based Authentication with Concurrent Attacks Outside of Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3570361.3613273)**  
    [**Ahmed Tanvir Mahdad**, Mohammed Jubur and Nitesh Saxena]   
@@ -36,14 +33,9 @@
    [**Ahmed Tanvir Mahdad** and Nitesh Saxena]  
    16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (**[WiSec 2023](https://wisec2023.surrey.ac.uk)**) [Acceptance Rate: **25.37%**]
 
-
-### 2022
-
 [**<span style="color:blue">C2</span>**]- **[Defending against Thru-barrier Stealthy Voice Attacks via Cross-domain Sensing on Phoneme Sounds](https://ieeexplore.ieee.org/abstract/document/9912174)**  
    [Cong Shi, Tianming Zhao, Wenjin Zhang, **Ahmed Tanvir Mahdad** , Zhengkun Ye, Yan Wang, Nitesh Saxena and Yingying Chen]  
    42nd IEEE International Conference on Distributed Computing Systems (**[ICDCS 2022](https://icdcs2022.icdcs.org)**) [Acceptance Rate: **19.9%**]
-
-### 2021
 
 [**<span style="color:blue">C1</span>**]- **[Analyzing the Security of OTP 2FA in the Face of Malicious Terminals](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_6)**  
    [**Ahmed Tanvir Mahdad** , Mohammed Jubur, Nitesh Saxena]  
