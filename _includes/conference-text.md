@@ -7,7 +7,7 @@
    2024 ACM SIGSAC Conference on Computer and Communications Security (**[CCS 2024](https://www.sigsac.org/ccs/CCS2024)**)
 
 
-[**<span style="color:blue">C8</span>**]- **[SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures](https://www.sigsac.org/ccs/CCS2024/)**  
+[**<span style="color:blue">C8</span>**]- **[SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures](https://tanvirmahdad.github.io/assets/files/ccsfpa1195-zhang.pdf)**  
    [Tianfang Zhang, Quifan Ji, Zhengkun Ye, Md Mojibur Rahman Redoy Akanda, **Ahmed Tanvir Mahdad**, Cong Shi, Yan Wang, Nitesh Saxena, Yingying Chen]   
    2024 ACM SIGSAC Conference on Computer and Communications Security (**[CCS 2024](https://www.sigsac.org/ccs/CCS2024)**)
 
