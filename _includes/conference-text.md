@@ -2,7 +2,7 @@
    2025 IEEE Symposium on Security and Privacy (SP) (**[IEEE S&P 2025](https://sp2025.ieee-security.org)**)
 
 
-[**<span style="color:blue">C9</span>**]- **[Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators](https://www.sigsac.org/ccs/CCS2024)**  
+[**<span style="color:blue">C9</span>**]- **[Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators](https://tanvirmahdad.github.io/assets/files/security_key_CCS_camera_ready_upload.pdf)**  
    [**Ahmed Tanvir Mahdad**, Mohammed Jubur and Nitesh Saxena]   
    2024 ACM SIGSAC Conference on Computer and Communications Security (**[CCS 2024](https://www.sigsac.org/ccs/CCS2024)**)
 
