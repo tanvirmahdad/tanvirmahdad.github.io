@@ -1,3 +1,5 @@
+[**<span style="color:blue">September 2024</span>**] Our paper is accepted with shepherding to **IEEE S&P 2025**. Details forthcoming.
+
 [**<span style="color:blue">July 2024</span>**] Our paper " Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators" is accepted to **ACM CCS 2024**. It is our second paper to be appeared in **CCS 2024**.
 
 [**<span style="color:blue">July 2024</span>**] Our paper "Mobile Login Bridge: Subverting 2FA and Passwordless Authentication via Android Debug Bridge" is accepted to **PST 2024**
