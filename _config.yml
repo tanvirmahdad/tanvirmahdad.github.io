@@ -109,9 +109,6 @@ author:
   location         : "College Station, TX"
   email            : "mahdad@tamu.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:mahdad@tamu.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=kzSQsk4AAAAJ&hl=en"
