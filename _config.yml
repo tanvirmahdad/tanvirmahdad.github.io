@@ -107,7 +107,6 @@ author:
   avatar           : "/assets/images/tanvir_mahdad.jpeg"
   bio              : "Ph.D Student, Graduate Assistant- Research, Texas A&M University"
   location         : "College Station, TX"
-  email            : "mahdad@tamu.edu"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
