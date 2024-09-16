@@ -1,3 +1,6 @@
+[**<span style="color:blue">C10</span>**]- [Accepted with Shepherding]  
+   2025 IEEE Symposium on Security and Privacy (SP) (**[IEEE S&P 2025](https://sp2025.ieee-security.org)**)
+
 
 [**<span style="color:blue">C9</span>**]- **[Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators](https://www.sigsac.org/ccs/CCS2024)**  
    [**Ahmed Tanvir Mahdad**, Mohammed Jubur and Nitesh Saxena]   
