@@ -24,7 +24,4 @@
 4. **Sidharth Anil** [Master’s Student, Texas A&M University] (Spring 2023)
 5. **Samuel Shteyman** [Undergraduate Student, Texas A&M University] (Spring 2022)
 
-### Grant Writing:
-
-1. "INTELLIGENT & SECURE AI-HUMAN ALLIANCE TOWARDS SOLVING HUMAN-IN-THE-LOOP CYBERSECURITY (ISAAC)" (assisted Professor Dr. Nitesh Saxena (PI))
 
