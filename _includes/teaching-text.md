@@ -1,4 +1,4 @@
-### Teaching Assistant
+
 
 **Texas A&M University, Department of Computer Science and Engineering – College Station, Texas**
 
