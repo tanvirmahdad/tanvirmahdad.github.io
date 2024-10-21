@@ -1,5 +1,7 @@
-[**<span style="color:blue">P11</span>**]- [Accepted with Shepherding]  
-   2025 IEEE Symposium on Security and Privacy (SP) (**[IEEE S&P 2025](https://sp2025.ieee-security.org)**)
+
+[**<span style="color:blue">P11</span>**]- **[BPSniff: Continuously Surveilling Private Blood Pressure Information in theMetaverse via Unrestricted Inbuilt Motion Sensors](https://sp2025.ieee-security.org)**  
+   [Zhengkun Ye, **Ahmed Tanvir Mahdad**, Yan Wang, Cong Shi, Yingying Chen, Nitesh Saxena]   
+   2025 IEEE Symposium on Security and Privacy (S&P, Oakland) (**[IEEE S&P 2025](https://sp2025.ieee-security.org)**)
 
 
 [**<span style="color:blue">P10</span>**]- **[Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators](https://tanvirmahdad.github.io/assets/files/security_key_CCS_camera_ready_upload.pdf)**  
