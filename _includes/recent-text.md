@@ -1,4 +1,4 @@
-[**<span style="color:blue">September 2024</span>**] Our paper is accepted with shepherding to **IEEE S&P 2025**. Details forthcoming.
+[**<span style="color:blue">September 2024</span>**] Our paper "BPSniff: Continuously Surveilling Private Blood Pressure Information in theMetaverse via Unrestricted Inbuilt Motion Sensors" is accepted to **IEEE S&P 2025**. 
 
 [**<span style="color:blue">July 2024</span>**] Our paper " Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators" is accepted to **ACM CCS 2024**.  It is our second paper to appear in **CCS 2024**.
 
