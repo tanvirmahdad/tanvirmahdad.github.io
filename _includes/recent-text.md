@@ -1,3 +1,7 @@
+[**<span style="color:blue">January 2025</span>**] Our paper *"Broken Access: On the Challenges of Screen Reader Assisted Two-Factor and Passwordless Authentication"* is accepted to **ACM Web Conference (WWW) 2025**. 
+
+[**<span style="color:blue">December 2024</span>**] I had the honor of delivering an invited talk at the **Rising Stars Talk** event hosted by the **University of Iowa**. 
+
 [**<span style="color:blue">September 2024</span>**] Our paper *"BPSniff: Continuously Surveilling Private Blood Pressure Information in theMetaverse via Unrestricted Inbuilt Motion Sensors"* is accepted to **IEEE S&P 2025**. 
 
 [**<span style="color:blue">July 2024</span>**] Our paper " Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators" is accepted to **ACM CCS 2024**.  It is our second paper to appear in **CCS 2024**.
