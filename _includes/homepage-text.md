@@ -6,4 +6,3 @@ My research focuses on the security of authentication systems, including state-o
 I have so far published 12 of my papers at top-tier security and systems conferences and journals such as <ins>**ACM CCS**</ins> (3 papers), <ins>**IEEE S&P**</ins>, <ins>**ACM MobiCom**</ins>, <ins>**ACM The Web Conference (WWW)**</ins>, <ins>**IEEE ICDCS**</ins> (2 papers), <ins>**ACM Transactions on Privacy and Security**</ins>. Our works have already got significant [media attention](https://tanvirmahdad.github.io/media/) within security communities worldwide. I also have 6 (six) other works currently under review. I am expected to graduate by Summer 2025.
 
 
- <span style="color:red">I am on the academic job market this year, seeking a tenure-track assistant professor position starting in Fall 2025.</span>
