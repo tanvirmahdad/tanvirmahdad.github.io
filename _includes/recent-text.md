@@ -1,3 +1,6 @@
+[**<span style="color:blue">March 2025</span>**] Accepted the offer to join as Tenure-track Assistant professor at School of Electrical Engineering and Computer Science at **Ohio University** from Fall 2025. 
+
+
 [**<span style="color:blue">February 2025</span>**] Invited to serve on the program committee of **IEEE SecDev 2025**. 
 
 [**<span style="color:blue">January 2025</span>**] Our paper *"Broken Access: On the Challenges of Screen Reader Assisted Two-Factor and Passwordless Authentication"* is accepted to **ACM Web Conference (WWW) 2025**. 
