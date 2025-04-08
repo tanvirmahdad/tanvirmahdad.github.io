@@ -1,4 +1,6 @@
-{% include alert note="I will be joining at X University." %}
+<div style="border-left: 4px solid #007acc; padding: 0.5em 1em; background: #f0f8ff;">
+  <strong>I will be joining at X University</strong>
+</div>
 
 
 I am pursuing my Ph.D. in Computer Science and Engineering at [Texas A&M University](https://www.tamu.edu/index.html){:target="_blank"} in college station, Texas, USA. I am working under the supervision of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu){:target="_blank"} at [SPIES Lab](https://spies.engr.tamu.edu){:target="_blank"}. I began my Ph.D. studies in the fall of 2019. Prior to that, I completed my undergraduate degree at Bangladesh University of Engineering and Technology (BUET) in Dhaka, Bangladesh.
