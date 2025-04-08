@@ -105,11 +105,7 @@ analytics:
 author:
   name             : "Ahmed Tanvir Mahdad"
   avatar           : "/assets/images/tanvir_photo.png"
-  bio: |
-  Incoming Assistant Professor  
-  EECS  
-  Ohio University
-  location         : "College Station, TX"
+  bio: "Incoming Assistant Professor  EECS@Ohio University<br>College Station, TX"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
