@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Ahmed Tanvir Mahdad"
   avatar           : "/assets/images/tanvir_photo.png"
-  bio              : "Incoming Assistant Professor\n School of Electrical Engineering and Computer Science\n Ohio University"
+  bio              : "Incoming Assistant Professor\nSchool of Electrical Engineering and Computer Science\nOhio University"
   location         : "College Station, TX"
   links:
     - label: "Google Scholar"
