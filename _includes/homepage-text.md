@@ -1,7 +1,7 @@
 <div style="border-left: 4px solid #007acc; padding: 1em 1.5em; background: #f0f8ff; border-radius: 8px; font-family: sans-serif;">
   <p style="margin: 0 0 0.5em 0;"><strong>📢 Exciting News!</strong></p>
   <p style="margin: 0 0 0.5em 0;">
-    I will be joining the <strong>School of Electrical Engineering and Computer Science at Ohio University</strong> as an Assistant Professor.
+    I will be joining the <strong>School of Electrical Engineering and Computer Science at Ohio University</strong> as a Tenure-track Assistant Professor.
   </p>
   <p style="margin: 0 0 0.5em 0;">
     I am currently looking to recruit multiple <strong>Ph.D. students</strong> to join my research group starting <strong>Fall 2025</strong>.
