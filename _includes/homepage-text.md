@@ -4,7 +4,7 @@
     I will be joining the <strong>School of Electrical Engineering and Computer Science at Ohio University</strong> as a Tenure-track Assistant Professor.
   </p>
   <p style="margin: 0 0 0.5em 0;">
-    I am currently looking to recruit multiple <strong>Ph.D. students</strong> to join my research group starting <strong>Fall 2025</strong>.
+    I am currently looking to recruit 1 <strong>Ph.D. student</strong> to join my research group starting <strong>Fall 2026</strong>.
   </p>
   <p style="margin: 0;">
     If you are interested, please send your <strong>CV</strong> and other relevant credentials to:
