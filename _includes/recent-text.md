@@ -1,5 +1,8 @@
-[**<span style="color:blue">March 2025</span>**] Accepted the offer to join as Tenure-track Assistant professor at School of Electrical Engineering and Computer Science at **Ohio University** from Fall 2025. 
+[**<span style="color:blue">June 2025</span>**] Our paper *"Encryption Struggles Persist: When Tech-Savvy Students Face Challenges with PGP in Thunderbird"* is accepted to **PST 2025**. 
 
+[**<span style="color:blue">June 2025</span>**] I successfully defended my dissertation titled *"New Frontiers in Authentication and Side Channels in Emerging Platforms: 2FA Attacks, Sensor Exploits, and AR/VR Security"*. 
+
+[**<span style="color:blue">March 2025</span>**] Accepted the offer to join as Tenure-track Assistant professor at School of Electrical Engineering and Computer Science at **Ohio University** from Fall 2025. 
 
 [**<span style="color:blue">February 2025</span>**] Invited to serve on the program committee of **IEEE SecDev 2025**. 
 

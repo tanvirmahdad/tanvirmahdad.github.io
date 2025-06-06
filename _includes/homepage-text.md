@@ -33,7 +33,7 @@ My research lies at the intersection of **security**, **privacy**, and **ubiquit
 
 ## 📄 Publications
 
-I have authored **12 peer-reviewed papers** in top-tier venues, including:
+I have authored **13 peer-reviewed papers** in top-tier venues, including:
 
 - **ACM CCS** (3 papers)  
 - **IEEE S&P**  
