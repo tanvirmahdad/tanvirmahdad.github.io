@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-From **Fall 2025**, I will be joining the **School of Electrical Engineering and Computer Science (EECS)** at **Ohio University** as a **tenure-track Assistant Professor**. I recently completed my **Ph.D. in Computer Science and Engineering** at [Texas A&M University:target="_blank"}. My doctoral research was conducted under the supervision of Dr. Nitesh Saxena{:target="_blank"} at the SPIES Lab{:target="_blank"}. Prior to that, I completed my undergraduate studies at the **Bangladesh University of Engineering and Technology (BUET)** in Dhaka, Bangladesh.
+From **Fall 2025**, I will be joining the **School of Electrical Engineering and Computer Science (EECS)** at **Ohio University** as **tenure-track Assistant Professor**. I recently completed my Ph.D. in Computer Science and Engineering at [Texas A&M University](https://www.tamu.edu/index.html){:target="_blank"}. My doctoral research was conducted under the supervision of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu){:target="_blank"}  at the [SPIES Lab](https://spies.engr.tamu.edu){:target="_blank"}. Prior to that, I completed my undergraduate studies at the **Bangladesh University of Engineering and Technology (BUET)** in Dhaka, Bangladesh.
 
 ---
 
