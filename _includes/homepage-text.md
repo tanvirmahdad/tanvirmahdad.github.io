@@ -27,7 +27,7 @@ From **Fall 2025**, I will be joining the **School of Electrical Engineering and
 My research lies at the intersection of **security**, **privacy**, and **ubiquitous computing**, with a focus on:
 
 - Secure and privacy-preserving **authentication systems**, including multi-factor and passwordless methods  
-- **Speech privacy** and **side-channel attacks** using smart devices, AR/VR platforms, and wearable sensors
+- **Speech privacy** and **side-channel attacks** using smart devices, AR/VR platforms, and wearable devices
 
 ---
 
