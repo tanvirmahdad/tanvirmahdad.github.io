@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I recently completed my **Ph.D. in Computer Science and Engineering** at Texas A&M University, College Station, Texas. My doctoral research was conducted under the supervision of Dr. Nitesh Saxena at the SPIES Lab. I began my Ph.D. in **Fall 2019**, following my undergraduate studies at the **Bangladesh University of Engineering and Technology (BUET)** in Dhaka, Bangladesh.
+From **Fall 2025**, I will be joining the **School of Electrical Engineering and Computer Science (EECS)** at **Ohio University**. I recently completed my Ph.D. in Computer Science and Engineering at [Texas A&M University](https://www.tamu.edu/index.html){:target="_blank"}. My doctoral research was conducted under the supervision of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu){:target="_blank"}  at the [SPIES Lab](https://spies.engr.tamu.edu){:target="_blank"}. Prior to that, I completed my undergraduate studies at the **Bangladesh University of Engineering and Technology (BUET)** in Dhaka, Bangladesh.
 
 ---
 
@@ -48,7 +48,7 @@ My work has received notable media coverage and recognition in the global securi
 
 ## 🎓 What's Next
 
-In **Fall 2025**, I will be joining the **School of Electrical Engineering and Computer Science (EECS)** at **Ohio University**.
+
 
 
 
