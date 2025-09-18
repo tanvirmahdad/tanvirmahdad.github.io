@@ -1,7 +1,7 @@
 
 
 
-**Ohio University, School of Electrical Engineering and Computer Science – Athens, Ohio**
+**Ohio University, EECS**
 
 *Instructor (August 2025- Present)*
 
