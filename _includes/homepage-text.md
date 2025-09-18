@@ -16,6 +16,6 @@ Our work has received notable media coverage and recognition in the global secur
     If you are interested, please send your <strong>CV</strong>, <strong>transcripts</strong> and other credentials to:
     <br>
     📧 <a href="mailto:mahdad@ohio.edu">mahdad@ohio.edu</a><br>
-     📧 <a href="mailto:tanvir.mahdad@gmail.com">mahdad@ohio.edu</a><br>
+     📧 <a href="mailto:tanvir.mahdad@gmail.com">tanvir.mahdad@gmail.com</a><br>
   </p>
 </div>
