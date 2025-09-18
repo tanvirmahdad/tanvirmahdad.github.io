@@ -1,52 +1,7 @@
-<div style="border-left: 4px solid #007acc; padding: 1em 1.5em; background: #f0f8ff; border-radius: 8px; font-family: sans-serif;">
-  <p style="margin: 0 0 0.5em 0;"><strong>📢 Exciting News!</strong></p>
-  <p style="margin: 0 0 0.5em 0;">
-    I will be joining the <strong>School of Electrical Engineering and Computer Science at Ohio University</strong> as a Tenure-track Assistant Professor.
-  </p>
-  <p style="margin: 0 0 0.5em 0;">
-    I have already recruited a student for Fall 2025 and am currently looking to recruit another <strong>Ph.D. student</strong> to join my research group starting <strong>Fall 2026</strong>.
-  </p>
-  <p style="margin: 0;">
-    If you are interested, please send your <strong>CV</strong> and other relevant credentials to:
-    <br>
-    📧 <a href="mailto:mahdad@tamu.edu">mahdad@tamu.edu</a><br>
-    📧 <a href="mailto:tanvir.mahdad@gmail.com">tanvir.mahdad@gmail.com</a>
-  </p>
-</div>
+I am an Assistant Professor in the [School of Electrical Engineering and Computer Science (EECS)] at Ohio University. Prior to joining Ohio University, I completed my Ph.D. in Computer Science at Texas A&M University{:target="_blank"} in Summer 2025. I completed my undergraduate from Bangladesh University of Engineering and Technology at Dhaka, Bangladesh
 
+I am leading Secure, Trustworthy, User-Centric Systems and Digital Identity Lab (STUrDy Lab) at Ohio University. My research lies at the intersection of security, privacy, and ubiquitous computing, with a focus on:
+Secure and privacy-preserving authentication systems, including multi-factor and passwordless methods [CCS' 24, MobiCom'23, WWW'25]
+Speech privacy and side-channel attacks using smart devices, AR/VR platforms, and wearable devices [CCS'25, S&P'25, CCS'24, CCS'23, ICDCS'23]
 
-
-## 👋 About Me
-
-From **Fall 2025**, I will be joining the **School of Electrical Engineering and Computer Science (EECS)** at **Ohio University** as **tenure-track Assistant Professor**. I recently completed my Ph.D. in Computer Science and Engineering at [Texas A&M University](https://www.tamu.edu/index.html){:target="_blank"}. My doctoral research was conducted under the supervision of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu){:target="_blank"}  at the [SPIES Lab](https://spies.engr.tamu.edu){:target="_blank"}. Prior to that, I completed my undergraduate studies at the **Bangladesh University of Engineering and Technology (BUET)** in Dhaka, Bangladesh.
-
----
-
-## 🔬 Research Interests
-
-My research lies at the intersection of **security**, **privacy**, and **ubiquitous computing**, with a focus on:
-
-- Secure and privacy-preserving **authentication systems**, including multi-factor and passwordless methods  
-- **Speech privacy** and **side-channel attacks** using smart devices, AR/VR platforms, and wearable devices
-
----
-
-## 📄 Publications
-
-I have authored **13 peer-reviewed papers** in top-tier venues, including:
-
-- **ACM CCS** (3 papers)  
-- **IEEE S&P**  
-- **ACM MobiCom**  
-- **The Web Conference (WWW)**  
-- **IEEE ICDCS** (2 papers)  
-- **ACM Transactions on Privacy and Security**
-
-My work has received notable media coverage and recognition in the global security research community. I also have **six additional papers** currently under review.
-
----
-
-
-
-
-
+Our work has received notable media coverage and recognition in the global security research community. 
