@@ -1,3 +1,6 @@
+[**<span style="color:blue">August 2025</span>**] Our paper *"Harnessing Vital Sign Vibration Harmonics for Effortless and 
+Inbuilt XR User Authentication"* is accepted to **CCS 2025**. 
+
 [**<span style="color:blue">June 2025</span>**] Our paper *"Encryption Struggles Persist: When Tech-Savvy Students Face Challenges with PGP in Thunderbird"* is accepted to **PST 2025**. 
 
 [**<span style="color:blue">June 2025</span>**] I successfully defended my dissertation titled *"New Frontiers in Authentication and Side Channels in Emerging Platforms: 2FA Attacks, Sensor Exploits, and AR/VR Security"*. 
