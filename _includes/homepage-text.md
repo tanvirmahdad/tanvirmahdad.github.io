@@ -9,7 +9,7 @@ Our work has received notable media coverage and recognition in the global secur
 
 
 <div style="border-left: 4px solid #007acc; padding: 1em 1.5em; background: #f0f8ff; border-radius: 8px; font-family: sans-serif;">
-<p style="margin: 0 0 0.5em 0;"><strong>📢 Current Opening!</strong></p>
+<p style="margin: 0 0 0.5em 0;"><strong>📢 Open Position!</strong></p>
     I am looking for a self-motivated <strong>Ph.D. student</strong> to join <strong>STUrDy Lab</strong> starting from <strong>Fall 2026</strong>.
  
   <p style="margin: 0;">
