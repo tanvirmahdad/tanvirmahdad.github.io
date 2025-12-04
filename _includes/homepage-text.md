@@ -16,6 +16,7 @@
 I am leading **S**ecure, **T**rustworthy, **U**se**r**-Centric Systems and **D**igital Identit**y** Lab (**STUrDy Lab**) at Ohio University. My research lies at the intersection of security, privacy, and ubiquitous computing, with a focus on:
 - **Secure and privacy-preserving authentication systems**, including multi-factor and passwordless methods [<span style="color:blue">CCS' 24, MobiCom'23, WWW'25</span>]
 - **Speech privacy and side-channel attacks using smart devices**, AR/VR platforms, and wearable devices [<span style="color:blue">CCS'25*, S&P'25, CCS'24, CCS'23, ICDCS'23</span>]
+
 <span style="color:red">*Distinguished Paper Award</span>
 
 Our works have received distinguished paper award at top-tier security conferences, notable media coverage and recognition in the global security research community. 
