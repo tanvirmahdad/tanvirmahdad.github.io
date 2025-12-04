@@ -19,7 +19,7 @@ I am leading **S**ecure, **T**rustworthy, **U**se**r**-Centric Systems and **D**
 
 <span style="color:red">*Distinguished Paper Award</span>
 
-Our works have received distinguished paper award at top-tier security conferences, notable media coverage and recognition in the global security research community. 
+Several of our works have received distinguished paper award at top-tier security conferences, notable media coverage and recognition in the global security research community. 
 
 
 
