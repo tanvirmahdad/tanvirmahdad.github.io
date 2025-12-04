@@ -1,3 +1,9 @@
+[**<span style="color:blue">November 2025</span>**] Got **Distinguished Paper Award** for our paper *"Harnessing Vital Sign Vibration Harmonics for Effortless and Inbuilt XR User Authentication"* at CCS 2025.
+
+[**<span style="color:blue">October 2025</span>**] Invited to serve on the program committee of 23rd 23rd Annual International Conference on Privacy, Security, and Trust **(PST 2026)**.
+
+[**<span style="color:blue">August 2025</span>**] Started my new role as **Tenure-track Assistant Professor** at *School of Electrical Engineering and Computer Science* at **Ohio University**, Ahtens, OH.
+
 [**<span style="color:blue">August 2025</span>**] Our paper *"Harnessing Vital Sign Vibration Harmonics for Effortless and 
 Inbuilt XR User Authentication"* is accepted to **CCS 2025**. 
 
