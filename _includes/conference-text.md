@@ -1,3 +1,8 @@
+[**<span style="color:blue">P14</span>**]- **[Harnessing Vital Sign Vibration Harmonics for Effortless and Inbuilt XR User Authentication](https://dl.acm.org/doi/abs/10.1145/3719027.3765060)**  
+   [Tianfang Zhang, Qiufan Ji, Md Mojibur Rahman Redoy Akanda, Zhengkun Ye, **Ahmed Tanvir Mahdad**, Cong Shi, Yan Wang, Nitesh Saxena, Yingying Chen]   
+   Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security(**[CCS 2025](https://www.sigsac.org/ccs/CCS2025/)**)
+
+
 [**<span style="color:blue">P13</span>**]- **[Encryption Struggles Persist: When Tech-Savvy Students Face Challenges with PGP in Thunderbird](https://www2025.thewebconf.org)**  
    [ Md Imanul Huq, **Ahmed Tanvir Mahdad**, Nitesh Saxena]   
    22nd Annual International Conference on Privacy, Security, and Trust (**[PST 2025](https://www2025.thewebconf.org)**)
