@@ -7,11 +7,19 @@ layout: archive
 
 
 
-<h2 class="archive__subtitle">Peer-reviewed Conference and Journal Papers</h2>
+<h2 class="archive__subtitle">Peer-reviewed Conference Papers</h2>
 
 <div class="conference-text" style="font-size: 16px;display: inline-block;
   vertical-align: top; width: calc(100% + 300px);">
 		{% capture conference_text %}{% include conference-text.md %}{% endcapture %}
+		{{ conference_text | markdownify }}
+</div>
+
+<h2 class="archive__subtitle">Peer-reviewed Journal Papers</h2>
+
+<div class="conference-text" style="font-size: 16px;display: inline-block;
+  vertical-align: top; width: calc(100% + 300px);">
+		{% capture conference_text %}{% include journal-updated-text.md %}{% endcapture %}
 		{{ conference_text | markdownify }}
 </div>
 
