@@ -1,7 +1,7 @@
 
 
-## **Subsection Title (e.g., Authentication Security)**  
-A short overview of what this subsection contains.
+## **Authentication Security**  
+In these works, we primarily analyze the security of state-of-the-art authentication systems and their vulnerabilities against well-designed attacks. The scope of these projects includes designing novel attack frameworks, evaluating the security of authentication systems using technical assessments and real-world user studies, and finally, securing these systems by mitigating the identified vulnerabilities with the help of modern AI/ML techniques.
 
 ### **Project 1: Project Headline Goes Here**
 **Short Description:**  
