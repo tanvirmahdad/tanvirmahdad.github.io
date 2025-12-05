@@ -1,3 +1,14 @@
+## Internal Service (EECS, Ohio University)
+
+
+## External Service:
+
+### Program Committee Member:
+
+1. **IEEE Secure Development Conference (IEEE SecDev)** (2025)
+2. **23rd Annual International Conference on Privacy, Security, and Trust (PST)** (PST 2026)
+
+
 ### Reviewer:
 
 1. **ACM Transactions on Privacy and Security** (2022, 2024)
@@ -16,12 +27,5 @@
 7. **30th ACM Conference on Computer and Communications Security (CCS)** (2023)
 
 
-### Student Mentoring:
-
-1. **Brandon Shim** [Undergraduate Student, Texas A&M University] (Summer 2024)
-2. **Rituparna Mandal** [Master’s Student, Texas A&M University] (Fall 2023)
-3. **Krishna Kushal** [Master’s Student, Texas A&M University] (Spring 2023)
-4. **Sidharth Anil** [Master’s Student, Texas A&M University] (Spring 2023)
-5. **Samuel Shteyman** [Undergraduate Student, Texas A&M University] (Spring 2022)
 
 
