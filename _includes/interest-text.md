@@ -45,5 +45,16 @@ This work evaluates the security of seven widely used OTP-based two-factor authe
 This paper investigates the security implications of the Android Debug Bridge (ADB) vulnerability on modern authentication systems, browser-based password managers, and financial applications. We introduce the BADAuth attack, which exploits ADB utilities to compromise non-rooted devices running the latest Android version. Our findings reveal that attackers can execute a one-time attack to access multi-factor authentication systems and extract all passwords stored in browser-based managers, enabling large-scale breaches. Additionally, we demonstrate privacy and security risks for financial and e-commerce apps under BADAuth attacks and propose potential mitigation strategies.
 
 
+# **Side-channel Analysis of Smart Devices**  
+
+In these works, we investigate side-channel information leakage from smart devices such as smartphones, smartwatches, and AR/VR devices. Specifically, we examine how zero-permission motion sensor data can be exploited by attackers to extract sensitive private information from users based solely on vibrations captured by these sensors. Our findings reveal several interesting types of information that can be inferred, including gender, speaker identity, emotion, speech content, and vital signs.
 
 
+### **EmoLeak**
+
+<div style="float: right; width: 45%; margin-left: 20px; margin-bottom: 10px;">
+  <img src="/assets/files/emoleak_overview.png" 
+       style="width:100%; border: 2px solid #000; border-radius: 3px;">
+</div>
+
+This work explores the feasibility of emotion recognition through zero-permission motion sensors on smartphones, revealing a new privacy risk. We show that voice played through a smartphone’s loudspeaker or ear speaker generates vibrations that encode emotional information, which can be extracted using time-frequency features and machine learning techniques. Evaluating our approach on multiple smartphones and public emotion datasets, we achieve up to 95.3% accuracy for loudspeaker settings and 60.52% for ear speaker settings, demonstrating a significant threat of emotional state leakage without requiring access to cameras or microphones.
