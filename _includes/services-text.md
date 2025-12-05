@@ -1,5 +1,3 @@
-## Internal Service (EECS, Ohio University)
-
 
 ## External Service:
 
