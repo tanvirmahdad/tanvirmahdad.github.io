@@ -27,11 +27,23 @@ This work evaluates the security of notification-based authentication systems, a
 
 ### **OTP-based Authentication**
 
-div style="float: right; width: 45%; margin-left: 20px; margin-bottom: 10px;">
+<div style="float: right; width: 45%; margin-left: 20px; margin-bottom: 10px;">
   <img src="/assets/files/otp_overview.png" 
        style="width:100%; border: 2px solid #000; border-radius: 3px;">
 </div>
 
 This work evaluates the security of seven widely used OTP-based two-factor authentication (2FA) schemes against malware operating in the terminal without compromising external devices or services. We develop attack modules that capture both passwords and OTPs during login and initiate hidden concurrent sessions to gain account access. Tested on popular public services, our findings reveal that nearly all OTP-2FA implementations are vulnerable to this attack, which requires no root privileges and runs stealthily with minimal resources, evading major anti-malware programs. These results demonstrate that OTP-2FA offers little additional security over passwords when a user’s terminal is compromised.
+
+
+### **BadAuth**
+
+<div style="float: right; width: 45%; margin-left: 20px; margin-bottom: 10px;">
+  <img src="/assets/files/badauth_overview.png" 
+       style="width:100%; border: 2px solid #000; border-radius: 3px;">
+</div>
+
+This paper investigates the security implications of the Android Debug Bridge (ADB) vulnerability on modern authentication systems, browser-based password managers, and financial applications. We introduce the BADAuth attack, which exploits ADB utilities to compromise non-rooted devices running the latest Android version. Our findings reveal that attackers can execute a one-time attack to access multi-factor authentication systems and extract all passwords stored in browser-based managers, enabling large-scale breaches. Additionally, we demonstrate privacy and security risks for financial and e-commerce apps under BADAuth attacks and propose potential mitigation strategies.
+
+
 
 
